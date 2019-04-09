@@ -1,9 +1,10 @@
-# TailormadeWP List Categories #
+# TailormadeWP Show Categories #
 **Contributors:**      TailormadeWP  
-**Donate link:**       https://www.tailormadewp.com/our-plugins/  
+**Donate link:**       https://www.tailormadewp.com/plugins/tmwp-showcategories/
+
 **Tags:**  
 **Requires at least:** 4.4  
-**Tested up to:**      4.8.1 
+**Tested up to:**      4.8.1
 **Stable tag:**        0.0.0  
 **License:**           GPLv2  
 **License URI:**       http://www.gnu.org/licenses/gpl-2.0.html  
@@ -16,8 +17,8 @@ Sophisticated category-listing
 
 ### Manual Installation ###
 
-1. Upload the entire `/tmwp-list-categories` directory to the `/wp-content/plugins/` directory.
-2. Activate TailormadeWP List Categories through the 'Plugins' menu in WordPress.
+1. Upload the entire `/tmwp-showcategories` directory to the `/wp-content/plugins/` directory.
+2. Activate TailormadeWP Show Categories through the 'Plugins' menu in WordPress.
 
 ## Frequently Asked Questions ##
 
