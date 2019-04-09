@@ -3,7 +3,7 @@
  * TMWP_showCategories Class File Doc Comment
  *
  * @package  TMWP_showCategories
- * @author   Marcel Reschke <hello@marcelreschke.com>
+ * @author   TailormadeWP <hello@tailormadewp.com>
  * @license  http://www.gnu.org/copyleft/gpl.html GNU General Public License
  * @link     http://www.tailormadewp.com/
  */
@@ -13,6 +13,7 @@
  *
  * @category Class
  * @package  TMWP_showCategories
+ * @author   TailormadeWP <hello@tailormadewp.com>
  * @author   Marcel Reschke <hello@marcelreschke.com>
  * @license  http://www.gnu.org/copyleft/gpl.html GNU General Public License
  * @link     http://www.tailormadewp.com/
