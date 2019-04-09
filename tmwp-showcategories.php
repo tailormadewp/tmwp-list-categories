@@ -35,3 +35,7 @@
  */
 
 defined( 'ABSPATH' ) || die( "Just don't!\n" );
+
+require 'class-tmwp-showcategories.php';
+
+add_shortcode( 'tmwp_showcategories', array( 'TMWP_ShowCategories', 'show_categories' ) );
