@@ -25,9 +25,13 @@ class TMWP_ShowCategories {
 	 *
 	 * Summaries for methods should use 3rd person declarative rather
 	 * than 2nd person imperative, beginning with a verb phrase.
+	 *
+	 * @param  array  $atts Attributes.
+	 * @param  string $content Content.
+	 * @return TMWP_ShowCategories
 	 */
-	public static function show_categories() {
-		echo( 'Test' );
+	public static function show_categories( $atts, $content = null ) {
+		return wp_list_categories();
 	}
 }
 
