@@ -12,7 +12,7 @@
  *
  * @link    https://www.tailormadewp.com/plugins/tmwp-showcategories/
  *
- * @package TMWP_Show_Categories
+ * @package TMWP_showCategories
  * @version 0.0.0
  */
 
@@ -33,3 +33,5 @@
  * along with this program; if not, write to the Free Software
  * Foundation, Inc., 51 Franklin St, Fifth Floor, Boston, MA  02110-1301  USA
  */
+
+defined( 'ABSPATH' ) || die( "Just don't!\n" );
