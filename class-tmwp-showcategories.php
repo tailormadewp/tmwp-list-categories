@@ -171,11 +171,7 @@ class TMWP_ShowCategories {
 		 */
 		$html = apply_filters( 'wp_list_categories', $output, $atts );
 
-		if ( $r['echo'] ) {
-			echo $html;
-		} else {
-			return $html;
-		}
+		return $html;
 	}
 }
 
